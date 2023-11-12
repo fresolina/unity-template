@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>Microsoft.Unity.Analyzers</id>
-    <version>1.17.0</version>
+    <version>1.18.0</version>
     <authors>Microsoft</authors>
     <developmentDependency>true</developmentDependency>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
@@ -12,7 +12,7 @@
     <description>Roslyn analyzers for Unity game developers</description>
     <copyright>© Microsoft Corporation. All rights reserved.</copyright>
     <tags>Unity3d analyzers csharp</tags>
-    <repository type="git" url="https://github.com/microsoft/Microsoft.Unity.Analyzers" commit="919faae953f5bc7a87ab2d503e9ab1d3126f0cbf" />
+    <repository type="git" url="https://github.com/microsoft/Microsoft.Unity.Analyzers" commit="61a94d2c09500bdd19431f28d7a7112fabb18653" />
     <dependencies>
       <group targetFramework=".NETStandard2.0" />
     </dependencies>
