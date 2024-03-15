@@ -1,6 +1,7 @@
 name: Weekly actions
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 8 * * 5' # every friday AM 8:00
 permissions:
