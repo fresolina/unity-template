@@ -1,8 +1,6 @@
 {
     "recommendations": [
         "editorconfig.editorconfig",
-        "unity.unity-debug",
-        "ryu1kn.partial-diff",
-        "tobiah.unity-tools"
+        "visualstudiotoolsforunity.vstuc"
     ]
 }
